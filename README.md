@@ -37,3 +37,6 @@ The project aims to analyze drug sales data to derive actionable insights and im
 - **Global View in JSON**: Created a global view of the data in JSON format for better data management.
 - **Heatmap Creation**: Developed heatmaps to gain deeper insights into data patterns.
 
+### dashboards
+
+

@@ -4,9 +4,9 @@ Analyzed drug sales data to derive actionable insights and improve decision-maki
 
 ## 📊 Drug Sales Data Analysis Dashboard
 
-Live dashboard :[link] (https://app.powerbi.com/view?r=eyJrIjoiM2U2OTgxMWEtODc4Ny00ZTFjLWE5NGMtZWIwMDFmMTA3ZDE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Live dashboard :[link](https://app.powerbi.com/view?r=eyJrIjoiM2U2OTgxMWEtODc4Ny00ZTFjLWE5NGMtZWIwMDFmMTA3ZDE0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-Presentation video : [link] (https://www.linkedin.com/posts/pampana-gopikrishna12_datawithdecision-codebasics-dataanalysis-activity-7208500229766082560--DD2?utm_source=share&utm_medium=member_desktop)
+Presentation video : [link](https://www.linkedin.com/posts/pampana-gopikrishna12_datawithdecision-codebasics-dataanalysis-activity-7208500229766082560--DD2?utm_source=share&utm_medium=member_desktop)
 
 
 ### 🎯 Problem Statement
